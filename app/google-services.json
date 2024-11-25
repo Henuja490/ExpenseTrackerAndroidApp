@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107620222241",
+    "project_id": "expensetrackerapp-hci",
+    "storage_bucket": "expensetrackerapp-hci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107620222241:android:2f2057b15fe7bc650d2a60",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrJNBWDDqrds2tx72BZOEgPqjHLZ69nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107620222241:android:a6dcc0ee079051e90d2a60",
+        "android_client_info": {
+          "package_name": "com.example.expensetrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrJNBWDDqrds2tx72BZOEgPqjHLZ69nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
